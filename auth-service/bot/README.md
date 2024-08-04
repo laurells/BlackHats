@@ -1,3 +1,5 @@
+Instabot README file
+
 1. InstaBot Class
 This class defines a bot that automates interactions with Instagram.
 
